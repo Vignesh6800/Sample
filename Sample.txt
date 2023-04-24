@@ -1,3 +1,5 @@
+	*********Welcome to github*********
+
 git init
 git remote add origin -> repository location
 git add -> file name
